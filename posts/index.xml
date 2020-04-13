@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 1nt3rrupt</title>
+        <link>https://example.com/posts/</link>
+        <description>Recent content in Posts on 1nt3rrupt</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 12 Apr 2020 23:36:15 +0530</lastBuildDate>
+        <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My Setup</title>
+            <link>https://example.com/posts/2020/04/my-setup/</link>
+            <pubDate>Sun, 12 Apr 2020 23:36:15 +0530</pubDate>
+            
+            <guid>https://example.com/posts/2020/04/my-setup/</guid>
+            <description>Hardware I am using a Lenovo laptop (Ideapad 110-15AST). It has a 15.6 inch screen and comes with AMD A9 9400, 8 GB of RAM, a 1 TB hard disk. Its a old laptop but it gets the work done.
+I have a Asus M1 Pro which I just bought mainly for its 5000 mAh Li-Po battery.
+Software I use both linux and Windows OS. I use Manjaro Linux (bspwm) and Windows 10.</description>
+            <content type="html"><![CDATA[<h2 id="hardware">Hardware</h2>
+<p>I am using a Lenovo laptop (Ideapad 110-15AST). It has a 15.6 inch screen and comes with AMD A9 9400, 8 GB of RAM, a 1 TB hard disk. Its a old laptop but it gets the work done.</p>
+<p>I have a Asus M1 Pro which I just bought mainly for its 5000 mAh Li-Po battery.</p>
+<h2 id="software">Software</h2>
+<p>I use both linux and Windows OS. I use Manjaro Linux (<a href="https://manjaro.org/get-manjaro/#bspwm">bspwm</a>) and Windows 10. I tried many distros and much distro hopping I finally settled on Manjaro Linux. I keep switching distos as there is so many choices with many distro getting nice updates.</p>
+<p>My favorite shell to use is zsh. I use Gvim as my primary text editor in Linux and notepad in Windows. I sometime use VS code just to change things up.</p>
+<p>My phone has <a href="https://lineageos.org/">LineageOS</a> running. I had to unlock the bootloader and to get the OS working.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
