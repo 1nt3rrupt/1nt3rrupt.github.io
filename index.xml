@@ -35,9 +35,9 @@
       <pubDate>Sun, 12 Apr 2020 23:36:15 +0530</pubDate>
       
       <guid>https://1nt3rrupt.github.io/posts/2020/04/my-setup/</guid>
-      <description>Hardware I am using a Lenovo laptop (Ideapad 110-15AST). It has a 15.6 inch screen and comes with AMD A9 9400, 8 GB of RAM, a 1 TB hard disk. Its a old laptop but it gets the work done.
+      <description>Hardware I am using a Lenovo laptop (Ideapad 110-15AST). It comes with AMD A9 9400, 8 GB of RAM, a 1 TB hard disk. Its an old laptop but it gets the work done.
 I have an Asus M1 Pro which I just bought mainly for its 5000 mAh Li-Po battery.
-Software I use both linux and Windows OS. I use Manjaro Linux (bspwm) and Windows 10.</description>
+Software I use both linux and Windows OS. I use Manjaro Linux (bspwm). I have tried many distros but I like Manjaro Linux the most.</description>
     </item>
     
     <item>
@@ -47,7 +47,7 @@ Software I use both linux and Windows OS. I use Manjaro Linux (bspwm) and Window
       
       <guid>https://1nt3rrupt.github.io/about/</guid>
       <description>Hi I am 1nt3rrupt. I am currently an undergrad studying Computer Science. This site was created because I wanted to know about static site generator like hugo. My primary interests comprises of anything computer related, recently I have been trying to learn things about computer security. I am also using this website to keep note of anything i find useful on the internet. Nothing much to write here.
-This website This website is creates by static site generator hugo.</description>
+This website This website is created using static site generator hugo.</description>
     </item>
     
   </channel>
