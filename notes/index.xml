@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on 1nt3rrupt</title>
@@ -17,7 +17,7 @@
       <pubDate>Sun, 12 Apr 2020 23:36:15 +0530</pubDate>
       
       <guid>https://1nt3rrupt.github.io/notes/archwiki/</guid>
-      <description>The ArchWiki is very helpful for every linux user. It had almost all the solution to problem a first time linux user can have.</description>
+      <description>The ArchWiki is very helpful for every linux user. It has almost all the solution to problem a first time linux user can have.</description>
     </item>
     
     <item>

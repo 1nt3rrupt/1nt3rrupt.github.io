@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 1nt3rrupt</title>
@@ -15,15 +16,23 @@
             
             <guid>https://1nt3rrupt.github.io/posts/2020/04/my-setup/</guid>
             <description>Hardware I am using a Lenovo laptop (Ideapad 110-15AST). It has a 15.6 inch screen and comes with AMD A9 9400, 8 GB of RAM, a 1 TB hard disk. Its a old laptop but it gets the work done.
-I have a Asus M1 Pro which I just bought mainly for its 5000 mAh Li-Po battery.
+I have an Asus M1 Pro which I just bought mainly for its 5000 mAh Li-Po battery.
 Software I use both linux and Windows OS. I use Manjaro Linux (bspwm) and Windows 10.</description>
-            <content type="html"><![CDATA[<h2 id="hardware">Hardware</h2>
+            <content type="html"><![CDATA[
+
+<h2 id="hardware">Hardware</h2>
+
 <p>I am using a Lenovo laptop (Ideapad 110-15AST). It has a 15.6 inch screen and comes with AMD A9 9400, 8 GB of RAM, a 1 TB hard disk. Its a old laptop but it gets the work done.</p>
-<p>I have a Asus M1 Pro which I just bought mainly for its 5000 mAh Li-Po battery.</p>
+
+<p>I have an Asus M1 Pro which I just bought mainly for its 5000 mAh Li-Po battery.</p>
+
 <h2 id="software">Software</h2>
-<p>I use both linux and Windows OS. I use Manjaro Linux (<a href="https://manjaro.org/get-manjaro/#bspwm">bspwm</a>) and Windows 10. I tried many distros and much distro hopping I finally settled on Manjaro Linux. I keep switching distos as there is so many choices with many distro getting nice updates.</p>
-<p>My favorite shell to use is zsh. I use Gvim as my primary text editor in Linux and notepad in Windows. I sometime use VS code just to change things up.</p>
-<p>My phone has <a href="https://lineageos.org/">LineageOS</a> running. I had to unlock the bootloader and to get the OS working.</p>
+
+<p>I use both linux and Windows OS. I use Manjaro Linux (<a href="https://manjaro.org/get-manjaro/#bspwm" target="_blank">bspwm</a>) and Windows 10. I have tried many distros but I like Manjaro Linux the most.</p>
+
+<p>My favorite shell to use is zsh. I use Neovim as my primary text editor in Linux and notepad in Windows. I sometime use VS code just to change things up.</p>
+
+<p>My phone has <a href="https://lineageos.org/" target="_blank">LineageOS</a> running. I had to unlock the bootloader and to get the OS working.</p>
 ]]></content>
         </item>
         
